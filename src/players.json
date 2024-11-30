@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Lionel Messi",
+      "team": "Inter Miami",
+      "nationality": "Argentina",
+      "jerseyNumber": 10,
+      "age": 37,
+      "imageURL": "https://b.fssta.com/uploads/application/soccer/headshots/711.vresize.350.350.medium.24.png"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Al Nassr",
+      "nationality": "Portugal",
+      "jerseyNumber": 7,
+      "age": 39,
+      "imageURL": "https://img.uefa.com/imgml/TP/players/2014/2025/cutoff/63706.webp"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "Paris Saint-Germain",
+      "nationality": "France",
+      "jerseyNumber": 7,
+      "age": 25,
+      "imageURL": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250076574.webp"
+    },
+    {
+      "name": "Neymar Jr.",
+      "team": "Al Hilal",
+      "nationality": "Brazil",
+      "jerseyNumber": 11,
+      "age": 32,
+      "imageURL": "https://dohanews.co/wp-content/uploads/2022/12/FjjXtJ1XgAQzZ_R.jpeg"
+    },
+    {
+      "name": "Robert Lewandowski",
+      "team": "FC Barcelona",
+      "nationality": "Poland",
+      "jerseyNumber": 9,
+      "age": 36,
+      "imageURL": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250002096.webp"
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "nationality": "Norway",
+      "jerseyNumber": 9,
+      "age": 24,
+      "imageURL" :"https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250103758.webp"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "team": "Manchester City",
+      "nationality": "Belgium",
+      "jerseyNumber": 17,
+      "age": 33,
+      "imageURL": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250008901.webp"
+    }
+  ]
+  
